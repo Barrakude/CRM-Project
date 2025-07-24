@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@crm.com",
+      "password": "$2a$10$XB3RRrfKbKN7NLqNOvn/YeGn3YgWG1jvVZqGY4XcKTgkQ8gFGn9MS",
+      "role": "admin",
+      "firstName": "Admin",
+      "lastName": "User",
+      "createdAt": "2025-01-24T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "username": "sales",
+      "email": "sales@crm.com",
+      "password": "$2a$10$XB3RRrfKbKN7NLqNOvn/YeGn3YgWG1jvVZqGY4XcKTgkQ8gFGn9MS",
+      "role": "sales",
+      "firstName": "Sales",
+      "lastName": "Manager",
+      "createdAt": "2025-01-24T10:00:00.000Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "companyName": "Tech Solutions SRL",
+      "contactPerson": "Mario Rossi",
+      "email": "mario.rossi@techsolutions.it",
+      "phone": "+39 02 1234567",
+      "address": "Via Milano 123, Milano, MI 20100",
+      "industry": "Tecnologia",
+      "status": "active",
+      "revenue": 50000,
+      "notes": "Cliente principale nel settore IT"
+    },
+    {
+      "id": 2,
+      "companyName": "Digital Marketing Agency",
+      "contactPerson": "Giulia Bianchi",
+      "email": "giulia@digitalmarketing.it",
+      "phone": "+39 06 9876543",
+      "address": "Via Roma 456, Roma, RM 00100",
+      "industry": "Marketing",
+      "status": "prospect",
+      "revenue": 25000,
+      "notes": "Interessati ai nostri servizi di consulenza"
+    },
+    {
+      "id": 3,
+      "companyName": "Retail Fashion SPA",
+      "contactPerson": "Alessandro Verdi",
+      "email": "a.verdi@retailfashion.it",
+      "phone": "+39 011 5551234",
+      "address": "Corso Torino 789, Torino, TO 10100",
+      "industry": "Retail",
+      "status": "active",
+      "revenue": 75000,
+      "notes": "Catena di negozi di moda, 15 punti vendita"
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "firstName": "Marco",
+      "lastName": "Verdi",
+      "email": "marco.verdi@techsolutions.it",
+      "phone": "+39 02 1234568",
+      "position": "CTO",
+      "department": "Tecnologia",
+      "isPrimary": true,
+      "notes": "Decisore tecnico principale"
+    },
+    {
+      "id": 2,
+      "customerId": 1,
+      "firstName": "Laura",
+      "lastName": "Neri",
+      "email": "laura.neri@techsolutions.it",
+      "phone": "+39 02 1234569",
+      "position": "Acquisti Manager",
+      "department": "Procurement",
+      "isPrimary": false,
+      "notes": "Gestisce gli acquisti IT"
+    },
+    {
+      "id": 3,
+      "customerId": 3,
+      "firstName": "Francesca",
+      "lastName": "Blu",
+      "email": "f.blu@retailfashion.it",
+      "phone": "+39 011 5551235",
+      "position": "Direttore Operations",
+      "department": "Operations",
+      "isPrimary": true,
+      "notes": "Responsabile operazioni retail"
+    }
+  ],
+  "deals": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "title": "Implementazione CRM Enterprise",
+      "description": "Progetto per implementare sistema CRM completo con integrazione ERP",
+      "value": 75000,
+      "currency": "EUR",
+      "stage": "proposal",
+      "probability": 70,
+      "expectedCloseDate": "2025-02-28T00:00:00.000Z",
+      "source": "referral",
+      "assignedTo": 2,
+      "status": "active",
+      "notes": "Cliente molto interessato, richiesta demo tecnica"
+    },
+    {
+      "id": 2,
+      "customerId": 2,
+      "title": "Consulenza Digital Marketing",
+      "description": "Servizi di consulenza per strategia digital marketing e social media",
+      "value": 15000,
+      "currency": "EUR",
+      "stage": "negotiation",
+      "probability": 85,
+      "expectedCloseDate": "2025-02-15T00:00:00.000Z",
+      "source": "website",
+      "assignedTo": 2,
+      "status": "active",
+      "notes": "In fase di negoziazione finale del contratto"
+    },
+    {
+      "id": 3,
+      "customerId": 3,
+      "title": "Sistema POS Multi-store",
+      "description": "Implementazione sistema POS per tutti i punti vendita",
+      "value": 45000,
+      "currency": "EUR",
+      "stage": "qualified",
+      "probability": 60,
+      "expectedCloseDate": "2025-03-15T00:00:00.000Z",
+      "source": "trade-show",
+      "assignedTo": 2,
+      "status": "active",
+      "notes": "Necessaria integrazione con sistema gestionale esistente"
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "customerId": 1,
+      "dealId": 1,
+      "type": "call",
+      "title": "Chiamata di follow-up",
+      "description": "Discutere i requisiti tecnici del progetto CRM",
+      "status": "completed",
+      "priority": "high",
+      "assignedTo": 2,
+      "createdBy": 2,
+      "dueDate": "2025-01-24T14:00:00.000Z",
+      "completedAt": "2025-01-24T14:30:00.000Z",
+      "notes": "Cliente interessato, richiede demo tecnica entro la settimana"
+    },
+    {
+      "id": 2,
+      "customerId": 1,
+      "dealId": 1,
+      "type": "meeting",
+      "title": "Demo tecnica CRM",
+      "description": "Presentazione delle funzionalità del sistema CRM",
+      "status": "scheduled",
+      "priority": "high",
+      "assignedTo": 2,
+      "createdBy": 2,
+      "dueDate": "2025-01-27T10:00:00.000Z",
+      "completedAt": null,
+      "notes": "Preparare demo ambiente con dati di esempio"
+    },
+    {
+      "id": 3,
+      "customerId": 2,
+      "dealId": 2,
+      "type": "email",
+      "title": "Invio proposta commerciale",
+      "description": "Inviare proposta dettagliata per servizi di digital marketing",
+      "status": "pending",
+      "priority": "medium",
+      "assignedTo": 2,
+      "createdBy": 2,
+      "dueDate": "2025-01-25T09:00:00.000Z",
+      "completedAt": null,
+      "notes": "Includere case studies di successo"
+    }
+  ]
+}
