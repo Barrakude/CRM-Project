@@ -1,0 +1,305 @@
+[
+  {
+    "id": "c1",
+    "name": "Leone-Salieri s.r.l.",
+    "vatNumber": "IT15917953304",
+    "address": "Via Monte 01, Borgo Antonino, 01399 Bolzano (LU)",
+    "sector": "Tecnologia",
+    "notes": "Fuga voluptatem alias accusantium.",
+    "contacts": [
+      "ct22",
+      "ct31",
+      "ct36"
+    ],
+    "mainContactId": "ct7",
+    "createdAt": "2025-07-13T14:25:15.397192",
+    "updatedAt": "2025-07-11T14:25:15.397199"
+  },
+  {
+    "id": "c2",
+    "name": "Catalano s.r.l.",
+    "vatNumber": "IT00869141314",
+    "address": "Piazza Tiziano 09 Appartamento 63, Micheletto sardo, 92302 Vicenza (CB)",
+    "sector": "Servizi",
+    "notes": "Minus blanditiis ullam pariatur accusamus perspiciatis.",
+    "contacts": [
+      "ct14",
+      "ct36",
+      "ct31"
+    ],
+    "mainContactId": "ct29",
+    "createdAt": "2025-06-27T14:25:15.397360",
+    "updatedAt": "2025-07-08T14:25:15.397364"
+  },
+  {
+    "id": "c3",
+    "name": "Tomasini, Matteotti e Novaro s.r.l.",
+    "vatNumber": "IT28071508423",
+    "address": "Canale Oliboni 9 Appartamento 46, Bottigliero a mare, 52337 Livorno (SR)",
+    "sector": "Servizi",
+    "notes": "Soluta adipisci sit necessitatibus quo quae cumque.",
+    "contacts": [
+      "ct36"
+    ],
+    "mainContactId": "ct1",
+    "createdAt": "2025-07-22T14:25:15.397525",
+    "updatedAt": "2025-07-01T14:25:15.397530"
+  },
+  {
+    "id": "c4",
+    "name": "Guidone e figli",
+    "vatNumber": "IT87890075470",
+    "address": "Via Alberto 65, Borgo Alberto sardo, 89131 Ragusa (RM)",
+    "sector": "Finanza",
+    "notes": "Soluta eius voluptatem aut sequi.",
+    "contacts": [
+      "ct1",
+      "ct40",
+      "ct32"
+    ],
+    "mainContactId": "ct22",
+    "createdAt": "2025-07-17T14:25:15.397670",
+    "updatedAt": "2025-07-01T14:25:15.397674"
+  },
+  {
+    "id": "c5",
+    "name": "Bova-Argenti Group",
+    "vatNumber": "IT14285124000",
+    "address": "Rotonda Zoppetti 977 Piano 5, Borgo Nicola, 02245 La Spezia (UD)",
+    "sector": "Servizi",
+    "notes": "Quaerat excepturi nulla aliquam cum voluptatem.",
+    "contacts": [
+      "ct5",
+      "ct13",
+      "ct37"
+    ],
+    "mainContactId": "ct15",
+    "createdAt": "2025-07-17T14:25:15.397809",
+    "updatedAt": "2025-06-29T14:25:15.397813"
+  },
+  {
+    "id": "c6",
+    "name": "Onisto-Peruzzi e figli",
+    "vatNumber": "IT17304281465",
+    "address": "Strada Annamaria 75 Piano 1, Carriera sardo, 60452 Carbonia-Iglesias (RE)",
+    "sector": "Costruzioni",
+    "notes": "Fugiat voluptate odit aperiam assumenda quibusdam aperiam.",
+    "contacts": [
+      "ct29",
+      "ct6",
+      "ct6"
+    ],
+    "mainContactId": "ct21",
+    "createdAt": "2025-06-26T14:25:15.397945",
+    "updatedAt": "2025-07-08T14:25:15.397949"
+  },
+  {
+    "id": "c7",
+    "name": "Cainero s.r.l.",
+    "vatNumber": "IT77936153492",
+    "address": "Strada Boccaccio 0, Finotto lido, 64303 Reggio Calabria (CA)",
+    "sector": "Finanza",
+    "notes": "Dicta fugiat molestias corrupti.",
+    "contacts": [
+      "ct20"
+    ],
+    "mainContactId": "ct36",
+    "createdAt": "2025-07-15T14:25:15.398098",
+    "updatedAt": "2025-07-02T14:25:15.398102"
+  },
+  {
+    "id": "c8",
+    "name": "Sraffa, Comolli e Zarlino s.r.l.",
+    "vatNumber": "IT87577389305",
+    "address": "Stretto Enrico 92 Piano 9, Letizia sardo, 11801 Cremona (BS)",
+    "sector": "Tecnologia",
+    "notes": "Error quis ipsum.",
+    "contacts": [
+      "ct22",
+      "ct35",
+      "ct14"
+    ],
+    "mainContactId": "ct39",
+    "createdAt": "2025-07-07T14:25:15.398243",
+    "updatedAt": "2025-07-06T14:25:15.398247"
+  },
+  {
+    "id": "c9",
+    "name": "Condoleo s.r.l.",
+    "vatNumber": "IT86880918916",
+    "address": "Viale Pedroni 9 Appartamento 00, Sesto Tonino, 51744 Trento (MN)",
+    "sector": "Servizi",
+    "notes": "Repellat aperiam odit consectetur enim rerum.",
+    "contacts": [
+      "ct6",
+      "ct39"
+    ],
+    "mainContactId": "ct25",
+    "createdAt": "2025-07-14T14:25:15.398381",
+    "updatedAt": "2025-07-06T14:25:15.398387"
+  },
+  {
+    "id": "c10",
+    "name": "Barcaccia s.r.l.",
+    "vatNumber": "IT27912560976",
+    "address": "Viale Melania 009, Sesto Coluccio, 36710 Ravenna (SI)",
+    "sector": "Costruzioni",
+    "notes": "Nostrum ut officiis voluptas quae eos sed.",
+    "contacts": [
+      "ct12",
+      "ct13"
+    ],
+    "mainContactId": "ct12",
+    "createdAt": "2025-07-23T14:25:15.398513",
+    "updatedAt": "2025-07-05T14:25:15.398519"
+  },
+  {
+    "id": "c11",
+    "name": "Magrassi-Cassarà e figli",
+    "vatNumber": "IT67537510074",
+    "address": "Strada Maura 8, Tolentino salentino, 26961 Biella (MS)",
+    "sector": "Servizi",
+    "notes": "Aut quo quasi adipisci.",
+    "contacts": [
+      "ct5",
+      "ct6"
+    ],
+    "mainContactId": "ct9",
+    "createdAt": "2025-06-26T14:25:15.398670",
+    "updatedAt": "2025-07-20T14:25:15.398675"
+  },
+  {
+    "id": "c12",
+    "name": "Ricciardi-Priuli SPA",
+    "vatNumber": "IT54151150552",
+    "address": "Strada Cociarelli 031, Sesto Nanni sardo, 93227 Bologna (NU)",
+    "sector": "Tecnologia",
+    "notes": "Provident ducimus adipisci dignissimos ex vero.",
+    "contacts": [
+      "ct35"
+    ],
+    "mainContactId": "ct26",
+    "createdAt": "2025-06-28T14:25:15.398792",
+    "updatedAt": "2025-07-02T14:25:15.398797"
+  },
+  {
+    "id": "c13",
+    "name": "Virgilio-Molesini e figli",
+    "vatNumber": "IT18942622358",
+    "address": "Contrada Niccolò 02, Quarto Beppe sardo, 26486 Terni (CA)",
+    "sector": "Servizi",
+    "notes": "In odio assumenda ipsam fuga veniam animi illum.",
+    "contacts": [
+      "ct16",
+      "ct14",
+      "ct38"
+    ],
+    "mainContactId": "ct27",
+    "createdAt": "2025-07-06T14:25:15.399100",
+    "updatedAt": "2025-07-16T14:25:15.399108"
+  },
+  {
+    "id": "c14",
+    "name": "Michelangeli-Rossi e figli",
+    "vatNumber": "IT47121418927",
+    "address": "Incrocio Druso 758, Sesto Romolo, 73407 Reggio Calabria (NA)",
+    "sector": "Finanza",
+    "notes": "Dolor beatae voluptatem.",
+    "contacts": [
+      "ct23",
+      "ct6"
+    ],
+    "mainContactId": "ct21",
+    "createdAt": "2025-07-05T14:25:15.399256",
+    "updatedAt": "2025-07-21T14:25:15.399260"
+  },
+  {
+    "id": "c15",
+    "name": "Verdone-Crespi s.r.l.",
+    "vatNumber": "IT17386401400",
+    "address": "Viale Camanni 4 Piano 4, Settimo Calcedonio, 14485 Bolzano (PV)",
+    "sector": "Finanza",
+    "notes": "Tempora quis architecto similique eligendi.",
+    "contacts": [
+      "ct22",
+      "ct13",
+      "ct16"
+    ],
+    "mainContactId": "ct2",
+    "createdAt": "2025-07-01T14:25:15.399397",
+    "updatedAt": "2025-07-16T14:25:15.399401"
+  },
+  {
+    "id": "c16",
+    "name": "Treves e figli",
+    "vatNumber": "IT68644759221",
+    "address": "Vicolo Scialpi 845 Piano 6, Quarto Severino, 70742 Torino (OR)",
+    "sector": "Tecnologia",
+    "notes": "Suscipit dolor explicabo.",
+    "contacts": [
+      "ct15",
+      "ct24",
+      "ct11"
+    ],
+    "mainContactId": "ct22",
+    "createdAt": "2025-07-11T14:25:15.399533",
+    "updatedAt": "2025-06-28T14:25:15.399539"
+  },
+  {
+    "id": "c17",
+    "name": "Alonzi-Troisi SPA",
+    "vatNumber": "IT60501904432",
+    "address": "Incrocio Romeo 5, Dibiasi calabro, 62728 Grosseto (BS)",
+    "sector": "Tecnologia",
+    "notes": "Tenetur ipsam ratione harum rem.",
+    "contacts": [
+      "ct10"
+    ],
+    "mainContactId": "ct15",
+    "createdAt": "2025-07-23T14:25:15.399671",
+    "updatedAt": "2025-06-28T14:25:15.399675"
+  },
+  {
+    "id": "c18",
+    "name": "Galtarossa-Ferrazzi s.r.l.",
+    "vatNumber": "IT90603125023",
+    "address": "Rotonda Polesel 08, Santorio nell'emilia, 73540 Ascoli Piceno (AT)",
+    "sector": "Tecnologia",
+    "notes": "Expedita enim ab aperiam.",
+    "contacts": [
+      "ct8"
+    ],
+    "mainContactId": "ct13",
+    "createdAt": "2025-07-05T14:25:15.399791",
+    "updatedAt": "2025-06-28T14:25:15.399794"
+  },
+  {
+    "id": "c19",
+    "name": "Gargallo-Petrucci e figli",
+    "vatNumber": "IT35919155875",
+    "address": "Borgo Nanni 385, Borgo Giorgio, 48647 L'Aquila (SO)",
+    "sector": "Tecnologia",
+    "notes": "Aliquid vel asperiores itaque quam.",
+    "contacts": [
+      "ct6",
+      "ct24"
+    ],
+    "mainContactId": "ct8",
+    "createdAt": "2025-07-23T14:25:15.399919",
+    "updatedAt": "2025-07-05T14:25:15.399922"
+  },
+  {
+    "id": "c20",
+    "name": "Pometta s.r.l.",
+    "vatNumber": "IT71113126379",
+    "address": "Piazza Esposito 732 Piano 5, Raffaellino lido, 98347 Palermo (RG)",
+    "sector": "Tecnologia",
+    "notes": "Modi ea doloremque blanditiis quos atque quasi.",
+    "contacts": [
+      "ct12"
+    ],
+    "mainContactId": "ct8",
+    "createdAt": "2025-07-09T14:25:15.400030",
+    "updatedAt": "2025-07-18T14:25:15.400034"
+  }
+]

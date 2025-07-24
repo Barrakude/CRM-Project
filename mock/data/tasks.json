@@ -1,0 +1,302 @@
+[
+  {
+    "id": "t1",
+    "title": "Rem vel sequi non.",
+    "type": "email",
+    "dueDate": "2025-07-23T14:25:15.407060",
+    "status": "in_attesa",
+    "reminder": "2025-07-23T14:25:15.407066",
+    "assignedTo": "u2",
+    "relatedTo": {
+      "contactId": "ct39",
+      "companyId": "c5"
+    },
+    "createdAt": "2025-07-18T14:25:15.407072",
+    "updatedAt": "2025-07-24T14:25:15.407075"
+  },
+  {
+    "id": "t2",
+    "title": "Labore ipsam labore eos.",
+    "type": "email",
+    "dueDate": "2025-07-22T14:25:15.407090",
+    "status": "in_attesa",
+    "reminder": "2025-07-23T14:25:15.407094",
+    "assignedTo": "u6",
+    "relatedTo": {
+      "contactId": "ct2",
+      "companyId": "c20"
+    },
+    "createdAt": "2025-07-17T14:25:15.407099",
+    "updatedAt": "2025-06-27T14:25:15.407102"
+  },
+  {
+    "id": "t3",
+    "title": "Expedita odit fugit neque.",
+    "type": "email",
+    "dueDate": "2025-07-21T14:25:15.407115",
+    "status": "completato",
+    "reminder": "2025-07-24T14:25:15.407118",
+    "assignedTo": "u8",
+    "relatedTo": {
+      "contactId": "ct23",
+      "companyId": "c9"
+    },
+    "createdAt": "2025-07-20T14:25:15.407123",
+    "updatedAt": "2025-07-24T14:25:15.407126"
+  },
+  {
+    "id": "t4",
+    "title": "Error repellendus natus doloremque.",
+    "type": "email",
+    "dueDate": "2025-07-18T14:25:15.407139",
+    "status": "completato",
+    "reminder": "2025-07-23T14:25:15.407142",
+    "assignedTo": "u5",
+    "relatedTo": {
+      "contactId": "ct19",
+      "companyId": "c18"
+    },
+    "createdAt": "2025-07-04T14:25:15.407147",
+    "updatedAt": "2025-07-14T14:25:15.407150"
+  },
+  {
+    "id": "t5",
+    "title": "Dolor maiores magni repellat.",
+    "type": "email",
+    "dueDate": "2025-07-14T14:25:15.407165",
+    "status": "in_attesa",
+    "reminder": "2025-07-24T14:25:15.407169",
+    "assignedTo": "u9",
+    "relatedTo": {
+      "contactId": "ct38",
+      "companyId": "c10"
+    },
+    "createdAt": "2025-07-19T14:25:15.407178",
+    "updatedAt": "2025-07-12T14:25:15.407183"
+  },
+  {
+    "id": "t6",
+    "title": "Quidem minus tenetur saepe officia.",
+    "type": "email",
+    "dueDate": "2025-07-21T14:25:15.407204",
+    "status": "in_attesa",
+    "reminder": "2025-07-23T14:25:15.407208",
+    "assignedTo": "u9",
+    "relatedTo": {
+      "contactId": "ct16",
+      "companyId": "c8"
+    },
+    "createdAt": "2025-06-30T14:25:15.407213",
+    "updatedAt": "2025-07-19T14:25:15.407216"
+  },
+  {
+    "id": "t7",
+    "title": "Ea error temporibus minima.",
+    "type": "chiamata",
+    "dueDate": "2025-07-18T14:25:15.407228",
+    "status": "completato",
+    "reminder": "2025-07-22T14:25:15.407231",
+    "assignedTo": "u1",
+    "relatedTo": {
+      "contactId": "ct9",
+      "companyId": "c20"
+    },
+    "createdAt": "2025-07-24T14:25:15.407237",
+    "updatedAt": "2025-07-12T14:25:15.407239"
+  },
+  {
+    "id": "t8",
+    "title": "Voluptas itaque architecto.",
+    "type": "email",
+    "dueDate": "2025-07-22T14:25:15.407253",
+    "status": "in_attesa",
+    "reminder": "2025-07-23T14:25:15.407257",
+    "assignedTo": "u5",
+    "relatedTo": {
+      "contactId": "ct36",
+      "companyId": "c14"
+    },
+    "createdAt": "2025-07-01T14:25:15.407263",
+    "updatedAt": "2025-06-25T14:25:15.407265"
+  },
+  {
+    "id": "t9",
+    "title": "Nisi sequi voluptatem.",
+    "type": "email",
+    "dueDate": "2025-07-14T14:25:15.407283",
+    "status": "completato",
+    "reminder": "2025-07-23T14:25:15.407289",
+    "assignedTo": "u6",
+    "relatedTo": {
+      "contactId": "ct6",
+      "companyId": "c8"
+    },
+    "createdAt": "2025-07-10T14:25:15.407302",
+    "updatedAt": "2025-07-04T14:25:15.407305"
+  },
+  {
+    "id": "t10",
+    "title": "Repudiandae dolor.",
+    "type": "chiamata",
+    "dueDate": "2025-07-15T14:25:15.407321",
+    "status": "in_attesa",
+    "reminder": "2025-07-23T14:25:15.407327",
+    "assignedTo": "u7",
+    "relatedTo": {
+      "contactId": "ct1",
+      "companyId": "c14"
+    },
+    "createdAt": "2025-06-24T14:25:15.407335",
+    "updatedAt": "2025-07-01T14:25:15.407341"
+  },
+  {
+    "id": "t11",
+    "title": "Nulla tenetur optio.",
+    "type": "chiamata",
+    "dueDate": "2025-07-16T14:25:15.407355",
+    "status": "in_attesa",
+    "reminder": "2025-07-23T14:25:15.407359",
+    "assignedTo": "u5",
+    "relatedTo": {
+      "contactId": "ct31",
+      "companyId": "c3"
+    },
+    "createdAt": "2025-06-24T14:25:15.407367",
+    "updatedAt": "2025-07-19T14:25:15.407372"
+  },
+  {
+    "id": "t12",
+    "title": "Repellat ab voluptatibus accusantium non.",
+    "type": "email",
+    "dueDate": "2025-07-19T14:25:15.407391",
+    "status": "in_attesa",
+    "reminder": "2025-07-22T14:25:15.407397",
+    "assignedTo": "u10",
+    "relatedTo": {
+      "contactId": "ct10",
+      "companyId": "c15"
+    },
+    "createdAt": "2025-06-25T14:25:15.407407",
+    "updatedAt": "2025-07-12T14:25:15.407410"
+  },
+  {
+    "id": "t13",
+    "title": "Rerum est reprehenderit.",
+    "type": "email",
+    "dueDate": "2025-07-17T14:25:15.407422",
+    "status": "completato",
+    "reminder": "2025-07-24T14:25:15.407426",
+    "assignedTo": "u4",
+    "relatedTo": {
+      "contactId": "ct30",
+      "companyId": "c11"
+    },
+    "createdAt": "2025-06-25T14:25:15.407431",
+    "updatedAt": "2025-07-08T14:25:15.407433"
+  },
+  {
+    "id": "t14",
+    "title": "Reprehenderit qui similique assumenda.",
+    "type": "email",
+    "dueDate": "2025-07-18T14:25:15.407445",
+    "status": "completato",
+    "reminder": "2025-07-22T14:25:15.407448",
+    "assignedTo": "u2",
+    "relatedTo": {
+      "contactId": "ct31",
+      "companyId": "c7"
+    },
+    "createdAt": "2025-07-15T14:25:15.407453",
+    "updatedAt": "2025-07-24T14:25:15.407456"
+  },
+  {
+    "id": "t15",
+    "title": "Quos praesentium quisquam accusamus.",
+    "type": "meeting",
+    "dueDate": "2025-07-16T14:25:15.407468",
+    "status": "completato",
+    "reminder": "2025-07-24T14:25:15.407474",
+    "assignedTo": "u4",
+    "relatedTo": {
+      "contactId": "ct20",
+      "companyId": "c4"
+    },
+    "createdAt": "2025-06-30T14:25:15.407483",
+    "updatedAt": "2025-07-04T14:25:15.407488"
+  },
+  {
+    "id": "t16",
+    "title": "Earum qui sit fugit eum.",
+    "type": "chiamata",
+    "dueDate": "2025-07-15T14:25:15.407502",
+    "status": "in_attesa",
+    "reminder": "2025-07-23T14:25:15.407506",
+    "assignedTo": "u8",
+    "relatedTo": {
+      "contactId": "ct6",
+      "companyId": "c16"
+    },
+    "createdAt": "2025-06-30T14:25:15.407512",
+    "updatedAt": "2025-06-24T14:25:15.407514"
+  },
+  {
+    "id": "t17",
+    "title": "Libero corrupti nihil.",
+    "type": "email",
+    "dueDate": "2025-07-15T14:25:15.407529",
+    "status": "completato",
+    "reminder": "2025-07-23T14:25:15.407532",
+    "assignedTo": "u1",
+    "relatedTo": {
+      "contactId": "ct8",
+      "companyId": "c9"
+    },
+    "createdAt": "2025-06-26T14:25:15.407537",
+    "updatedAt": "2025-07-03T14:25:15.407540"
+  },
+  {
+    "id": "t18",
+    "title": "Nesciunt velit similique temporibus.",
+    "type": "email",
+    "dueDate": "2025-07-23T14:25:15.407553",
+    "status": "completato",
+    "reminder": "2025-07-23T14:25:15.407559",
+    "assignedTo": "u9",
+    "relatedTo": {
+      "contactId": "ct38",
+      "companyId": "c13"
+    },
+    "createdAt": "2025-07-10T14:25:15.407567",
+    "updatedAt": "2025-07-21T14:25:15.407572"
+  },
+  {
+    "id": "t19",
+    "title": "Ipsa non.",
+    "type": "meeting",
+    "dueDate": "2025-07-19T14:25:15.407595",
+    "status": "completato",
+    "reminder": "2025-07-23T14:25:15.407598",
+    "assignedTo": "u4",
+    "relatedTo": {
+      "contactId": "ct39",
+      "companyId": "c3"
+    },
+    "createdAt": "2025-07-23T14:25:15.407603",
+    "updatedAt": "2025-07-22T14:25:15.407607"
+  },
+  {
+    "id": "t20",
+    "title": "Magnam in ex.",
+    "type": "chiamata",
+    "dueDate": "2025-07-19T14:25:15.407625",
+    "status": "completato",
+    "reminder": "2025-07-24T14:25:15.407630",
+    "assignedTo": "u9",
+    "relatedTo": {
+      "contactId": "ct16",
+      "companyId": "c6"
+    },
+    "createdAt": "2025-07-22T14:25:15.407638",
+    "updatedAt": "2025-07-11T14:25:15.407643"
+  }
+]
