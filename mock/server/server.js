@@ -39,7 +39,10 @@ function nextId(name) {
     return arr.length ? Math.max(...arr.map(o => o.id)) + 1 : 1;
 }
 
-//& --- Crea automaticamente le route CRUD ---
+
+//#region CRUD
+//& --- Crea automaticamente le route CRUD --- 
+
 entities.forEach(name => {
     const base = `/${name}`;
     app.get(base, (req, res) => res.json(db[name]));
@@ -64,7 +67,7 @@ entities.forEach(name => {
         saveEntity(name);
         res.json(db[name][idx]);
     });
-    
+
     app.delete(`${base}/:id`, (req, res) => {
         const id = parseInt(req.params.id);
         const before = db[name].length;
@@ -74,5 +77,35 @@ entities.forEach(name => {
         res.status(204).send();
     });
 });
+
+//#region  Post per LOGIN
+
+const USERS_PATH = './data/users.json';
+
+app.post('/login', (req, res) => {
+    const { username, password } = req.body;
+    const users = JSON.parse(fs.readFileSync(USERS_PATH));
+
+    const user = users.find(
+        u => u.username === username && u.password === password
+    );
+
+    if (user) {
+        // Simulazione token
+        res.json({
+            token: 'fake-jwt-token',
+            user: {
+                id: user.id,
+                username: user.username,
+                role: user.role
+            }
+        });
+    } else {
+        res.status(401).json({ message: 'Credenziali non valide' });
+    }
+});
+
+//#endregion 
+
 
 app.listen(PORT, () => console.log(`Mock server running on http://localhost:${PORT}`));

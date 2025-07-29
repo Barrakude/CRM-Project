@@ -2,7 +2,8 @@
   {
     "id": 1,
     "name": "Lucrezia Bartoli",
-    "email": "ypirelli@vodafone.it",
+    "email": "lucrezia.bartoli@company.com",
+    "password": "Lucrezia2024!",
     "role": "operator",
     "createdAt": "2025-06-30T14:25:15.396140",
     "updatedAt": "2025-06-26T14:25:15.396156"
@@ -10,7 +11,8 @@
   {
     "id": 2,
     "name": "Laura Galeati",
-    "email": "elladio19@tutino-comencini.com",
+    "email": "laura.galeati@company.com",
+    "password": "LauraG789#",
     "role": "operator",
     "createdAt": "2025-07-23T14:25:15.396290",
     "updatedAt": "2025-07-16T14:25:15.396295"
@@ -18,7 +20,8 @@
   {
     "id": 3,
     "name": "Dott. Tina Montalcini",
-    "email": "nittoraffaellino@poste.it",
+    "email": "tina.montalcini@company.com",
+    "password": "TinaDoc456$",
     "role": "operator",
     "createdAt": "2025-07-12T14:25:15.396386",
     "updatedAt": "2025-06-25T14:25:15.396393"
@@ -26,7 +29,8 @@
   {
     "id": 4,
     "name": "Silvia Fittipaldi",
-    "email": "qtremonti@libero.it",
+    "email": "silvia.fittipaldi@company.com",
+    "password": "SilviaF321@",
     "role": "operator",
     "createdAt": "2025-06-24T14:25:15.396459",
     "updatedAt": "2025-07-09T14:25:15.396464"
@@ -34,7 +38,8 @@
   {
     "id": 5,
     "name": "Alessandra Cabrini",
-    "email": "taccolaramona@poste.it",
+    "email": "alessandra.cabrini@company.com",
+    "password": "AleC2025&",
     "role": "operator",
     "createdAt": "2025-07-06T14:25:15.396514",
     "updatedAt": "2025-06-26T14:25:15.396518"
@@ -42,7 +47,8 @@
   {
     "id": 6,
     "name": "Manuel Boaga",
-    "email": "ginocoardi@sagnelli.it",
+    "email": "manuel.boaga@company.com",
+    "password": "ManuelAdmin99!",
     "role": "admin",
     "createdAt": "2025-07-08T14:25:15.396612",
     "updatedAt": "2025-07-20T14:25:15.396617"
@@ -50,7 +56,8 @@
   {
     "id": 7,
     "name": "Bianca Manzoni",
-    "email": "versacemariano@hotmail.it",
+    "email": "bianca.manzoni@company.com",
+    "password": "BiancaM147*",
     "role": "operator",
     "createdAt": "2025-07-20T14:25:15.396677",
     "updatedAt": "2025-06-30T14:25:15.396681"
@@ -58,7 +65,8 @@
   {
     "id": 8,
     "name": "Ivo Russo",
-    "email": "kmercantini@maccanelli.net",
+    "email": "ivo.russo@company.com",
+    "password": "IvoAdmin555#",
     "role": "admin",
     "createdAt": "2025-07-05T14:25:15.396761",
     "updatedAt": "2025-06-29T14:25:15.396765"
@@ -66,7 +74,8 @@
   {
     "id": 9,
     "name": "Amedeo Guinizzelli",
-    "email": "bruscantinigiovanna@tin.it",
+    "email": "amedeo.guinizzelli@company.com",
+    "password": "AmedeoG888$",
     "role": "operator",
     "createdAt": "2025-06-25T14:25:15.396843",
     "updatedAt": "2025-07-07T14:25:15.396847"
@@ -74,7 +83,8 @@
   {
     "id": 10,
     "name": "Angelo Botticelli",
-    "email": "valerio33@yahoo.com",
+    "email": "angelo.botticelli@company.com",
+    "password": "AngeloAdmin77@",
     "role": "admin",
     "createdAt": "2025-07-15T14:25:15.396896",
     "updatedAt": "2025-07-21T14:25:15.396902"
