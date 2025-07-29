@@ -31,6 +31,7 @@ function saveEntity(name) {
 
 entities.forEach(loadEntity);
 
+
 //& crea il nuovo ID numerico 
 
 function nextId(name) {
@@ -42,16 +43,19 @@ function nextId(name) {
 entities.forEach(name => {
     const base = `/${name}`;
     app.get(base, (req, res) => res.json(db[name]));
+
     app.get(`${base}/:id`, (req, res) => {
         const obj = db[name].find(o => o.id === parseInt(req.params.id));
         res.json(obj || {});
     });
+
     app.post(base, (req, res) => {
         const newObj = { id: nextId(name), ...req.body };
         db[name].push(newObj);
         saveEntity(name);
         res.status(201).json(newObj);
     });
+
     app.put(`${base}/:id`, (req, res) => {
         const id = parseInt(req.params.id);
         const idx = db[name].findIndex(o => o.id === id);
@@ -60,6 +64,7 @@ entities.forEach(name => {
         saveEntity(name);
         res.json(db[name][idx]);
     });
+    
     app.delete(`${base}/:id`, (req, res) => {
         const id = parseInt(req.params.id);
         const before = db[name].length;
