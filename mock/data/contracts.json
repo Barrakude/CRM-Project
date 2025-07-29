@@ -1,7 +1,7 @@
 [
   {
-    "id": "cn1",
-    "contactId": "ct15",
+    "id": 1,
+    "contactId": 15,
     "title": "Contratto cn1",
     "description": "Quia molestiae animi maiores accusamus.",
     "startDate": "2024-12-23T14:25:15.406087",
@@ -11,8 +11,8 @@
     "updatedAt": "2025-06-30T14:25:15.406108"
   },
   {
-    "id": "cn2",
-    "contactId": "ct29",
+    "id": 2,
+    "contactId": 29,
     "title": "Contratto cn2",
     "description": "Reprehenderit odio ducimus consequuntur voluptatum aut natus.",
     "startDate": "2024-11-02T14:25:15.406135",
@@ -22,8 +22,8 @@
     "updatedAt": "2025-07-04T14:25:15.406153"
   },
   {
-    "id": "cn3",
-    "contactId": "ct30",
+    "id": 3,
+    "contactId": 30,
     "title": "Contratto cn3",
     "description": "Dolorum aut asperiores voluptatum.",
     "startDate": "2024-10-22T14:25:15.406178",
@@ -33,8 +33,8 @@
     "updatedAt": "2025-07-08T14:25:15.406200"
   },
   {
-    "id": "cn4",
-    "contactId": "ct33",
+    "id": 4,
+    "contactId": 33,
     "title": "Contratto cn4",
     "description": "Laborum maxime quos expedita.",
     "startDate": "2025-01-17T14:25:15.406227",
@@ -44,8 +44,8 @@
     "updatedAt": "2025-06-29T14:25:15.406245"
   },
   {
-    "id": "cn5",
-    "contactId": "ct34",
+    "id": 5,
+    "contactId": 34,
     "title": "Contratto cn5",
     "description": "Saepe dolor debitis optio dolorem dicta praesentium.",
     "startDate": "2024-08-25T14:25:15.406269",
@@ -55,8 +55,8 @@
     "updatedAt": "2025-06-30T14:25:15.406286"
   },
   {
-    "id": "cn6",
-    "contactId": "ct14",
+    "id": 6,
+    "contactId": 14,
     "title": "Contratto cn6",
     "description": "Expedita eaque voluptate expedita voluptatum sequi.",
     "startDate": "2024-11-12T14:25:15.406306",
@@ -66,8 +66,8 @@
     "updatedAt": "2025-07-09T14:25:15.406322"
   },
   {
-    "id": "cn7",
-    "contactId": "ct25",
+    "id": 7,
+    "contactId": 25,
     "title": "Contratto cn7",
     "description": "Iure et consectetur natus quod.",
     "startDate": "2024-08-23T14:25:15.406341",
@@ -77,8 +77,8 @@
     "updatedAt": "2025-06-27T14:25:15.406353"
   },
   {
-    "id": "cn8",
-    "contactId": "ct2",
+    "id": 8,
+    "contactId": 2,
     "title": "Contratto cn8",
     "description": "Assumenda reprehenderit est.",
     "startDate": "2024-08-10T14:25:15.406368",
@@ -88,8 +88,8 @@
     "updatedAt": "2025-07-08T14:25:15.406381"
   },
   {
-    "id": "cn9",
-    "contactId": "ct37",
+    "id": 9,
+    "contactId": 37,
     "title": "Contratto cn9",
     "description": "Alias nostrum eos beatae quae voluptatem.",
     "startDate": "2024-11-21T14:25:15.406394",
@@ -99,8 +99,8 @@
     "updatedAt": "2025-06-27T14:25:15.406403"
   },
   {
-    "id": "cn10",
-    "contactId": "ct17",
+    "id": 10,
+    "contactId": 17,
     "title": "Contratto cn10",
     "description": "Mollitia sint at magnam rerum commodi nisi.",
     "startDate": "2024-11-09T14:25:15.406416",
@@ -110,8 +110,8 @@
     "updatedAt": "2025-07-12T14:25:15.406425"
   },
   {
-    "id": "cn11",
-    "contactId": "ct4",
+    "id": 11,
+    "contactId": 4,
     "title": "Contratto cn11",
     "description": "Voluptatum cupiditate dolores ipsa praesentium adipisci saepe.",
     "startDate": "2024-12-15T14:25:15.406437",
@@ -121,8 +121,8 @@
     "updatedAt": "2025-07-15T14:25:15.406446"
   },
   {
-    "id": "cn12",
-    "contactId": "ct22",
+    "id": 12,
+    "contactId": 22,
     "title": "Contratto cn12",
     "description": "Asperiores voluptate est voluptate officiis.",
     "startDate": "2025-01-11T14:25:15.406459",
@@ -132,8 +132,8 @@
     "updatedAt": "2025-07-20T14:25:15.406468"
   },
   {
-    "id": "cn13",
-    "contactId": "ct32",
+    "id": 13,
+    "contactId": 32,
     "title": "Contratto cn13",
     "description": "Aliquid provident sed possimus consequuntur.",
     "startDate": "2024-08-24T14:25:15.406480",
@@ -143,8 +143,8 @@
     "updatedAt": "2025-07-13T14:25:15.406489"
   },
   {
-    "id": "cn14",
-    "contactId": "ct27",
+    "id": 14,
+    "contactId": 27,
     "title": "Contratto cn14",
     "description": "Animi harum eligendi dolorem veritatis tenetur minus suscipit.",
     "startDate": "2025-01-16T14:25:15.406502",
@@ -154,8 +154,8 @@
     "updatedAt": "2025-07-10T14:25:15.406511"
   },
   {
-    "id": "cn15",
-    "contactId": "ct4",
+    "id": 15,
+    "contactId": 4,
     "title": "Contratto cn15",
     "description": "Incidunt cumque amet provident.",
     "startDate": "2024-12-31T14:25:15.406523",
@@ -165,8 +165,8 @@
     "updatedAt": "2025-07-23T14:25:15.406532"
   },
   {
-    "id": "cn16",
-    "contactId": "ct39",
+    "id": 16,
+    "contactId": 39,
     "title": "Contratto cn16",
     "description": "Fugit dolores est repudiandae temporibus vero accusamus.",
     "startDate": "2024-08-20T14:25:15.406544",
@@ -176,8 +176,8 @@
     "updatedAt": "2025-07-02T14:25:15.406553"
   },
   {
-    "id": "cn17",
-    "contactId": "ct36",
+    "id": 17,
+    "contactId": 36,
     "title": "Contratto cn17",
     "description": "Minima commodi doloribus eligendi illo iusto.",
     "startDate": "2024-08-12T14:25:15.406565",
@@ -187,8 +187,8 @@
     "updatedAt": "2025-06-29T14:25:15.406573"
   },
   {
-    "id": "cn18",
-    "contactId": "ct32",
+    "id": 18,
+    "contactId": 32,
     "title": "Contratto cn18",
     "description": "Cum suscipit minima dicta.",
     "startDate": "2024-12-28T14:25:15.406585",
@@ -198,8 +198,8 @@
     "updatedAt": "2025-07-04T14:25:15.406594"
   },
   {
-    "id": "cn19",
-    "contactId": "ct22",
+    "id": 19,
+    "contactId": 22,
     "title": "Contratto cn19",
     "description": "Dolore error corporis mollitia.",
     "startDate": "2024-08-12T14:25:15.406606",
@@ -209,8 +209,8 @@
     "updatedAt": "2025-06-27T14:25:15.406615"
   },
   {
-    "id": "cn20",
-    "contactId": "ct9",
+    "id": 20,
+    "contactId": 9,
     "title": "Contratto cn20",
     "description": "Molestias debitis sint quam unde.",
     "startDate": "2024-10-18T14:25:15.406627",
@@ -220,8 +220,8 @@
     "updatedAt": "2025-06-27T14:25:15.406636"
   },
   {
-    "id": "cn21",
-    "contactId": "ct13",
+    "id": 21,
+    "contactId": 13,
     "title": "Contratto cn21",
     "description": "Doloribus nam sunt neque.",
     "startDate": "2025-01-16T14:25:15.406652",
@@ -231,8 +231,8 @@
     "updatedAt": "2025-06-30T14:25:15.406667"
   },
   {
-    "id": "cn22",
-    "contactId": "ct13",
+    "id": 22,
+    "contactId": 13,
     "title": "Contratto cn22",
     "description": "Quia minima quo reiciendis.",
     "startDate": "2024-10-01T14:25:15.406685",
@@ -242,8 +242,8 @@
     "updatedAt": "2025-07-23T14:25:15.406694"
   },
   {
-    "id": "cn23",
-    "contactId": "ct3",
+    "id": 23,
+    "contactId": 3,
     "title": "Contratto cn23",
     "description": "Quam ratione sed.",
     "startDate": "2024-09-23T14:25:15.406707",
@@ -253,8 +253,8 @@
     "updatedAt": "2025-07-08T14:25:15.406716"
   },
   {
-    "id": "cn24",
-    "contactId": "ct37",
+    "id": 24,
+    "contactId": 37,
     "title": "Contratto cn24",
     "description": "Illum fugit harum harum.",
     "startDate": "2024-09-01T14:25:15.406728",
@@ -264,8 +264,8 @@
     "updatedAt": "2025-06-30T14:25:15.406737"
   },
   {
-    "id": "cn25",
-    "contactId": "ct33",
+    "id": 25,
+    "contactId": 33,
     "title": "Contratto cn25",
     "description": "Laudantium consectetur assumenda accusamus repudiandae aspernatur vitae.",
     "startDate": "2024-07-31T14:25:15.406749",
@@ -275,8 +275,8 @@
     "updatedAt": "2025-07-15T14:25:15.406758"
   },
   {
-    "id": "cn26",
-    "contactId": "ct8",
+    "id": 26,
+    "contactId": 8,
     "title": "Contratto cn26",
     "description": "Quia ipsum eius impedit exercitationem.",
     "startDate": "2024-12-19T14:25:15.406770",
@@ -286,8 +286,8 @@
     "updatedAt": "2025-07-22T14:25:15.406780"
   },
   {
-    "id": "cn27",
-    "contactId": "ct7",
+    "id": 27,
+    "contactId": 7,
     "title": "Contratto cn27",
     "description": "Ea asperiores quis nesciunt qui similique.",
     "startDate": "2024-10-11T14:25:15.406798",
@@ -297,8 +297,8 @@
     "updatedAt": "2025-06-30T14:25:15.406814"
   },
   {
-    "id": "cn28",
-    "contactId": "ct10",
+    "id": 28,
+    "contactId": 10,
     "title": "Contratto cn28",
     "description": "Maiores architecto ipsum.",
     "startDate": "2025-01-18T14:25:15.406833",
@@ -308,8 +308,8 @@
     "updatedAt": "2025-07-11T14:25:15.406842"
   },
   {
-    "id": "cn29",
-    "contactId": "ct2",
+    "id": 29,
+    "contactId": 2,
     "title": "Contratto cn29",
     "description": "Quae tempore optio nobis sunt enim nisi.",
     "startDate": "2024-09-20T14:25:15.406856",
@@ -319,8 +319,8 @@
     "updatedAt": "2025-07-13T14:25:15.406889"
   },
   {
-    "id": "cn30",
-    "contactId": "ct5",
+    "id": 30,
+    "contactId": 5,
     "title": "Contratto cn30",
     "description": "Pariatur facilis vitae magnam porro consequatur.",
     "startDate": "2024-12-25T14:25:15.406911",

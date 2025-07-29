@@ -1,6 +1,6 @@
 [
   {
-    "id": "u1",
+    "id": 1,
     "name": "Lucrezia Bartoli",
     "email": "ypirelli@vodafone.it",
     "role": "operator",
@@ -8,7 +8,7 @@
     "updatedAt": "2025-06-26T14:25:15.396156"
   },
   {
-    "id": "u2",
+    "id": 2,
     "name": "Laura Galeati",
     "email": "elladio19@tutino-comencini.com",
     "role": "operator",
@@ -16,7 +16,7 @@
     "updatedAt": "2025-07-16T14:25:15.396295"
   },
   {
-    "id": "u3",
+    "id": 3,
     "name": "Dott. Tina Montalcini",
     "email": "nittoraffaellino@poste.it",
     "role": "operator",
@@ -24,7 +24,7 @@
     "updatedAt": "2025-06-25T14:25:15.396393"
   },
   {
-    "id": "u4",
+    "id": 4,
     "name": "Silvia Fittipaldi",
     "email": "qtremonti@libero.it",
     "role": "operator",
@@ -32,7 +32,7 @@
     "updatedAt": "2025-07-09T14:25:15.396464"
   },
   {
-    "id": "u5",
+    "id": 5,
     "name": "Alessandra Cabrini",
     "email": "taccolaramona@poste.it",
     "role": "operator",
@@ -40,7 +40,7 @@
     "updatedAt": "2025-06-26T14:25:15.396518"
   },
   {
-    "id": "u6",
+    "id": 6,
     "name": "Manuel Boaga",
     "email": "ginocoardi@sagnelli.it",
     "role": "admin",
@@ -48,7 +48,7 @@
     "updatedAt": "2025-07-20T14:25:15.396617"
   },
   {
-    "id": "u7",
+    "id": 7,
     "name": "Bianca Manzoni",
     "email": "versacemariano@hotmail.it",
     "role": "operator",
@@ -56,7 +56,7 @@
     "updatedAt": "2025-06-30T14:25:15.396681"
   },
   {
-    "id": "u8",
+    "id": 8,
     "name": "Ivo Russo",
     "email": "kmercantini@maccanelli.net",
     "role": "admin",
@@ -64,7 +64,7 @@
     "updatedAt": "2025-06-29T14:25:15.396765"
   },
   {
-    "id": "u9",
+    "id": 9,
     "name": "Amedeo Guinizzelli",
     "email": "bruscantinigiovanna@tin.it",
     "role": "operator",
@@ -72,7 +72,7 @@
     "updatedAt": "2025-07-07T14:25:15.396847"
   },
   {
-    "id": "u10",
+    "id": 10,
     "name": "Angelo Botticelli",
     "email": "valerio33@yahoo.com",
     "role": "admin",

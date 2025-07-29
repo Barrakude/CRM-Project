@@ -1,10 +1,10 @@
 [
   {
-    "id": "ct1",
+    "id": 1,
     "name": "Gian Lovato",
     "email": "hbenedetti@lattuada-casale.net",
     "phone": "+39 8433 1845357",
-    "companyId": "c2",
+    "companyId": 2,
     "notes": "Neque consequatur accusamus magnam facilis.",
     "tags": [
       "partner"
@@ -15,28 +15,28 @@
     "updatedAt": "2025-07-16T14:25:15.400346"
   },
   {
-    "id": "ct2",
+    "id": 2,
     "name": "Allegra Cesaroni-Petrassi",
     "email": "tullioborsellino@foa.it",
     "phone": "+39 3323 65992719",
-    "companyId": "c3",
+    "companyId": 3,
     "notes": "Minima facere iste.",
     "tags": [
       "lead"
     ],
     "status": "scaduto",
     "contracts": [
-      "cn12"
+      12
     ],
     "createdAt": "2025-07-11T14:25:15.400480",
     "updatedAt": "2025-07-19T14:25:15.400486"
   },
   {
-    "id": "ct3",
+    "id": 3,
     "name": "Giancarlo Vitturi",
     "email": "isolimena@bosurgi-guidone.it",
     "phone": "+39 354 6030535",
-    "companyId": "c2",
+    "companyId": 2,
     "notes": "Pariatur optio dolorem exercitationem cum accusantium.",
     "tags": [
       "lead",
@@ -44,36 +44,36 @@
     ],
     "status": "potenziale",
     "contracts": [
-      "cn13",
-      "cn7"
+      13,
+      7
     ],
     "createdAt": "2025-07-16T14:25:15.400621",
     "updatedAt": "2025-07-13T14:25:15.400628"
   },
   {
-    "id": "ct4",
+    "id": 4,
     "name": "Olga Biagi",
     "email": "alessio70@goldoni.com",
     "phone": "+39 51 0562376",
-    "companyId": "c16",
+    "companyId": 16,
     "notes": "Facere debitis eveniet voluptates.",
     "tags": [
       "cliente"
     ],
     "status": "potenziale",
     "contracts": [
-      "cn6",
-      "cn28"
+      6,
+      28
     ],
     "createdAt": "2025-07-19T14:25:15.400769",
     "updatedAt": "2025-07-14T14:25:15.400773"
   },
   {
-    "id": "ct5",
+    "id": 5,
     "name": "Sig.ra Liliana Aloisio",
     "email": "vittorio87@libero.it",
     "phone": "+39 166 20829821",
-    "companyId": "c17",
+    "companyId": 17,
     "notes": "Dolores repudiandae debitis veniam vero tempore.",
     "tags": [
       "lead",
@@ -81,18 +81,18 @@
     ],
     "status": "cliente_attivo",
     "contracts": [
-      "cn6",
-      "cn1"
+      6,
+      1
     ],
     "createdAt": "2025-07-09T14:25:15.400876",
     "updatedAt": "2025-07-03T14:25:15.400880"
   },
   {
-    "id": "ct6",
+    "id": 6,
     "name": "Dott. Vincenza Bossi",
     "email": "saragatjolanda@tin.it",
     "phone": "+39 904 56007154",
-    "companyId": "c14",
+    "companyId": 14,
     "notes": "Itaque magni cum quidem.",
     "tags": [
       "potenziale",
@@ -100,17 +100,17 @@
     ],
     "status": "scaduto",
     "contracts": [
-      "cn5"
+      5
     ],
     "createdAt": "2025-07-07T14:25:15.400990",
     "updatedAt": "2025-07-02T14:25:15.400995"
   },
   {
-    "id": "ct7",
+    "id": 7,
     "name": "Sig. Silvio Perozzo",
     "email": "virgilio48@barbarigo-turrini.com",
     "phone": "+39 616 5700404",
-    "companyId": "c1",
+    "companyId": 1,
     "notes": "Praesentium ut voluptatum quis quis maiores harum rerum.",
     "tags": [
       "lead",
@@ -122,47 +122,47 @@
     "updatedAt": "2025-07-16T14:25:15.401105"
   },
   {
-    "id": "ct8",
+    "id": 8,
     "name": "Giacinto Carriera-Zichichi",
     "email": "biancatuzzolino@gmail.com",
     "phone": "+39 25 0909255",
-    "companyId": "c5",
+    "companyId": 5,
     "notes": "Numquam eum quos nobis voluptates.",
     "tags": [
       "partner"
     ],
     "status": "cliente_attivo",
     "contracts": [
-      "cn10",
-      "cn22"
+      10,
+      22
     ],
     "createdAt": "2025-07-13T14:25:15.401211",
     "updatedAt": "2025-07-06T14:25:15.401217"
   },
   {
-    "id": "ct9",
+    "id": 9,
     "name": "Elmo Battelli",
     "email": "massimilianoaloisio@live.com",
     "phone": "+39 4931 8642821",
-    "companyId": "c20",
+    "companyId": 20,
     "notes": "Neque velit odio molestiae.",
     "tags": [
       "potenziale"
     ],
     "status": "cliente_attivo",
     "contracts": [
-      "cn14",
-      "cn27"
+      14,
+      27
     ],
     "createdAt": "2025-07-04T14:25:15.401347",
     "updatedAt": "2025-07-22T14:25:15.401353"
   },
   {
-    "id": "ct10",
+    "id": 10,
     "name": "Marcella Infantino",
     "email": "alberico64@fastwebnet.it",
     "phone": "+39 885 53620829",
-    "companyId": "c1",
+    "companyId": 1,
     "notes": "Facere veniam natus illum nostrum rem.",
     "tags": [
       "potenziale"
@@ -173,11 +173,11 @@
     "updatedAt": "2025-07-04T14:25:15.401488"
   },
   {
-    "id": "ct11",
+    "id": 11,
     "name": "Alderano Orengo",
     "email": "elviranolcini@tamburi.org",
     "phone": "+39 61 9737813",
-    "companyId": "c15",
+    "companyId": 15,
     "notes": "Ipsam aperiam incidunt hic.",
     "tags": [
       "partner",
@@ -185,35 +185,35 @@
     ],
     "status": "cliente_attivo",
     "contracts": [
-      "cn19",
-      "cn14"
+      19,
+      14
     ],
     "createdAt": "2025-06-30T14:25:15.401639",
     "updatedAt": "2025-07-03T14:25:15.401644"
   },
   {
-    "id": "ct12",
+    "id": 12,
     "name": "Giosuè Romano-Nosiglia",
     "email": "martinelliamadeo@live.com",
     "phone": "+39 436 66 60 9759",
-    "companyId": "c2",
+    "companyId": 2,
     "notes": "Natus eius reprehenderit id.",
     "tags": [
       "partner"
     ],
     "status": "potenziale",
     "contracts": [
-      "cn23"
+      23
     ],
     "createdAt": "2025-07-19T14:25:15.401753",
     "updatedAt": "2025-07-10T14:25:15.401757"
   },
   {
-    "id": "ct13",
+    "id": 13,
     "name": "Chiara Bassi",
     "email": "michelotto01@cappelli.com",
     "phone": "+39 05 62462926",
-    "companyId": "c17",
+    "companyId": 17,
     "notes": "Maiores cum tempora tenetur provident.",
     "tags": [
       "lead",
@@ -221,17 +221,17 @@
     ],
     "status": "cliente_attivo",
     "contracts": [
-      "cn10"
+      10
     ],
     "createdAt": "2025-06-28T14:25:15.401885",
     "updatedAt": "2025-07-10T14:25:15.401892"
   },
   {
-    "id": "ct14",
+    "id": 14,
     "name": "Dott. Vittoria Travia",
     "email": "wesposito@bramante.org",
     "phone": "+39 45 4487278",
-    "companyId": "c2",
+    "companyId": 2,
     "notes": "Aliquam nesciunt odit alias.",
     "tags": [
       "cliente",
@@ -243,28 +243,28 @@
     "updatedAt": "2025-07-01T14:25:15.402078"
   },
   {
-    "id": "ct15",
+    "id": 15,
     "name": "Dott. Fredo Saracino",
     "email": "ktrentini@montesano.it",
     "phone": "+39 850 11 69 5975",
-    "companyId": "c5",
+    "companyId": 5,
     "notes": "Maiores voluptates similique blanditiis et ad.",
     "tags": [
       "partner"
     ],
     "status": "scaduto",
     "contracts": [
-      "cn11"
+      11
     ],
     "createdAt": "2025-07-24T14:25:15.402218",
     "updatedAt": "2025-07-18T14:25:15.402224"
   },
   {
-    "id": "ct16",
+    "id": 16,
     "name": "Dott. Alessia Moresi",
     "email": "porcellatofabia@matteotti.com",
     "phone": "+39 251 60759944",
-    "companyId": "c1",
+    "companyId": 1,
     "notes": "Sed iste debitis iste eaque veniam aperiam.",
     "tags": [
       "lead"
@@ -275,11 +275,11 @@
     "updatedAt": "2025-07-04T14:25:15.402371"
   },
   {
-    "id": "ct17",
+    "id": 17,
     "name": "Delfino Aulenti",
     "email": "ecopatrizio@tele2.it",
     "phone": "+39 0578 7710864",
-    "companyId": "c7",
+    "companyId": 7,
     "notes": "Officia atque repudiandae.",
     "tags": [
       "potenziale",
@@ -291,28 +291,28 @@
     "updatedAt": "2025-06-27T14:25:15.402507"
   },
   {
-    "id": "ct18",
+    "id": 18,
     "name": "Sig. Cirillo Serao",
     "email": "ugoludovisi@abate.eu",
     "phone": "+39 82 2223950",
-    "companyId": "c13",
+    "companyId": 13,
     "notes": "Vero numquam id dolorem odio eveniet vitae.",
     "tags": [
       "lead"
     ],
     "status": "cliente_attivo",
     "contracts": [
-      "cn26"
+      26
     ],
     "createdAt": "2025-06-29T14:25:15.402629",
     "updatedAt": "2025-07-21T14:25:15.402635"
   },
   {
-    "id": "ct19",
+    "id": 19,
     "name": "Dott. Ettore Puglisi",
     "email": "teresa92@gmail.com",
     "phone": "+39 029 06220058",
-    "companyId": "c9",
+    "companyId": 9,
     "notes": "Alias quod beatae.",
     "tags": [
       "potenziale"
@@ -323,65 +323,65 @@
     "updatedAt": "2025-06-27T14:25:15.402751"
   },
   {
-    "id": "ct20",
+    "id": 20,
     "name": "Concetta Correr",
     "email": "proiettiraffaello@yahoo.com",
     "phone": "+39 5325 8386126",
-    "companyId": "c1",
+    "companyId": 1,
     "notes": "Omnis vitae inventore ipsa iusto dolore hic.",
     "tags": [
       "lead"
     ],
     "status": "potenziale",
     "contracts": [
-      "cn9",
-      "cn18"
+      9,
+      18
     ],
     "createdAt": "2025-07-14T14:25:15.402853",
     "updatedAt": "2025-06-24T14:25:15.402857"
   },
   {
-    "id": "ct21",
+    "id": 21,
     "name": "Maura Petrucelli-Bompiani",
     "email": "valeria85@hotmail.it",
     "phone": "+39 997 34 09 5618",
-    "companyId": "c12",
+    "companyId": 12,
     "notes": "Corporis hic quisquam.",
     "tags": [
       "partner"
     ],
     "status": "scaduto",
     "contracts": [
-      "cn29",
-      "cn15"
+      29,
+      15
     ],
     "createdAt": "2025-07-04T14:25:15.402998",
     "updatedAt": "2025-07-11T14:25:15.403005"
   },
   {
-    "id": "ct22",
+    "id": 22,
     "name": "Sig.ra Luisa Campano",
     "email": "kcusano@poste.it",
     "phone": "+39 629 4815525",
-    "companyId": "c12",
+    "companyId": 12,
     "notes": "Occaecati quidem deserunt vero debitis nesciunt eos.",
     "tags": [
       "cliente"
     ],
     "status": "cliente_attivo",
     "contracts": [
-      "cn10",
-      "cn1"
+      10,
+      1
     ],
     "createdAt": "2025-07-20T14:25:15.403096",
     "updatedAt": "2025-07-20T14:25:15.403101"
   },
   {
-    "id": "ct23",
+    "id": 23,
     "name": "Angelina Maderno-Villadicani",
     "email": "poeriograziano@gmail.com",
     "phone": "+39 3522 1952069",
-    "companyId": "c9",
+    "companyId": 9,
     "notes": "Iure odit provident aspernatur incidunt quas.",
     "tags": [
       "potenziale",
@@ -393,11 +393,11 @@
     "updatedAt": "2025-06-30T14:25:15.403196"
   },
   {
-    "id": "ct24",
+    "id": 24,
     "name": "Fabrizio Correr",
     "email": "gianluigibadoglio@chittolini.eu",
     "phone": "+39 1642 5858268",
-    "companyId": "c20",
+    "companyId": 20,
     "notes": "Doloremque totam fugiat hic iusto.",
     "tags": [
       "lead"
@@ -408,11 +408,11 @@
     "updatedAt": "2025-07-06T14:25:15.403303"
   },
   {
-    "id": "ct25",
+    "id": 25,
     "name": "Pierangelo Pisano-Cainero",
     "email": "adelmotrapanese@flaiano.org",
     "phone": "+39 9261 0015751",
-    "companyId": "c10",
+    "companyId": 10,
     "notes": "Fuga possimus pariatur repellat dolorem culpa mollitia.",
     "tags": [
       "partner",
@@ -420,35 +420,35 @@
     ],
     "status": "potenziale",
     "contracts": [
-      "cn4"
+      4
     ],
     "createdAt": "2025-07-09T14:25:15.403433",
     "updatedAt": "2025-07-01T14:25:15.403447"
   },
   {
-    "id": "ct26",
+    "id": 26,
     "name": "Torquato Dibiasi",
     "email": "tinatrapanese@folliero-roncalli.org",
     "phone": "+39 926 27 90 6196",
-    "companyId": "c8",
+    "companyId": 8,
     "notes": "Doloremque sit aliquam nulla eaque magni.",
     "tags": [
       "potenziale"
     ],
     "status": "potenziale",
     "contracts": [
-      "cn24",
-      "cn3"
+      24,
+      3
     ],
     "createdAt": "2025-07-15T14:25:15.403609",
     "updatedAt": "2025-07-12T14:25:15.403613"
   },
   {
-    "id": "ct27",
+    "id": 27,
     "name": "Sole Pertini",
     "email": "filippo38@gmail.com",
     "phone": "+39 49 2711769",
-    "companyId": "c11",
+    "companyId": 11,
     "notes": "Nam eaque dolorem beatae consequuntur repellat.",
     "tags": [
       "partner",
@@ -456,54 +456,54 @@
     ],
     "status": "potenziale",
     "contracts": [
-      "cn30",
-      "cn16"
+      30,
+      16
     ],
     "createdAt": "2025-07-09T14:25:15.403688",
     "updatedAt": "2025-07-14T14:25:15.403691"
   },
   {
-    "id": "ct28",
+    "id": 28,
     "name": "Arturo Ciani",
     "email": "ballasophia@zaccagnini-storladi.it",
     "phone": "+39 551 03374430",
-    "companyId": "c11",
+    "companyId": 11,
     "notes": "Explicabo veritatis unde at esse in qui.",
     "tags": [
       "partner"
     ],
     "status": "potenziale",
     "contracts": [
-      "cn16",
-      "cn14"
+      16,
+      14
     ],
     "createdAt": "2025-07-23T14:25:15.403822",
     "updatedAt": "2025-07-15T14:25:15.403826"
   },
   {
-    "id": "ct29",
+    "id": 29,
     "name": "Concetta Giannelli",
     "email": "lucianasollima@gmail.com",
     "phone": "+39 69 21658735",
-    "companyId": "c11",
+    "companyId": 11,
     "notes": "Totam inventore facere id quisquam voluptatibus sint laboriosam.",
     "tags": [
       "cliente"
     ],
     "status": "scaduto",
     "contracts": [
-      "cn13",
-      "cn26"
+      13,
+      26
     ],
     "createdAt": "2025-07-04T14:25:15.403923",
     "updatedAt": "2025-07-22T14:25:15.403928"
   },
   {
-    "id": "ct30",
+    "id": 30,
     "name": "Dante Sabatini-Cossiga",
     "email": "lucianafanucci@poste.it",
     "phone": "+39 316 6787993",
-    "companyId": "c3",
+    "companyId": 3,
     "notes": "Magnam laborum et placeat at et.",
     "tags": [
       "cliente"
@@ -514,46 +514,46 @@
     "updatedAt": "2025-07-12T14:25:15.404056"
   },
   {
-    "id": "ct31",
+    "id": 31,
     "name": "Puccio Bellò",
     "email": "qcabrini@molesini.com",
     "phone": "+39 50 3006802",
-    "companyId": "c1",
+    "companyId": 1,
     "notes": "Reprehenderit non totam aspernatur.",
     "tags": [
       "partner"
     ],
     "status": "scaduto",
     "contracts": [
-      "cn10",
-      "cn15"
+      10,
+      15
     ],
     "createdAt": "2025-06-25T14:25:15.404206",
     "updatedAt": "2025-07-09T14:25:15.404213"
   },
   {
-    "id": "ct32",
+    "id": 32,
     "name": "Emma Abbagnale",
     "email": "valierfederigo@tiscali.it",
     "phone": "+39 66 7063609",
-    "companyId": "c19",
+    "companyId": 19,
     "notes": "Adipisci expedita facilis excepturi iste.",
     "tags": [
       "partner"
     ],
     "status": "potenziale",
     "contracts": [
-      "cn8"
+      8
     ],
     "createdAt": "2025-07-16T14:25:15.404350",
     "updatedAt": "2025-07-06T14:25:15.404357"
   },
   {
-    "id": "ct33",
+    "id": 33,
     "name": "Ugo Busoni",
     "email": "camiscioneguarino@libero.it",
     "phone": "+39 2926 3953688",
-    "companyId": "c6",
+    "companyId": 6,
     "notes": "Nam possimus labore magni.",
     "tags": [
       "cliente",
@@ -565,11 +565,11 @@
     "updatedAt": "2025-06-27T14:25:15.404510"
   },
   {
-    "id": "ct34",
+    "id": 34,
     "name": "Marta Emo",
     "email": "dionigi64@gmail.com",
     "phone": "+39 985 37 35 7607",
-    "companyId": "c1",
+    "companyId": 1,
     "notes": "Mollitia vero quod.",
     "tags": [
       "cliente",
@@ -577,17 +577,17 @@
     ],
     "status": "cliente_attivo",
     "contracts": [
-      "cn9"
+      9
     ],
     "createdAt": "2025-07-18T14:25:15.404652",
     "updatedAt": "2025-07-04T14:25:15.404660"
   },
   {
-    "id": "ct35",
+    "id": 35,
     "name": "Pomponio Giusti",
     "email": "jsibilia@tiscali.it",
     "phone": "+39 457 9281348",
-    "companyId": "c2",
+    "companyId": 2,
     "notes": "Perferendis veniam culpa alias sit rem quisquam iusto.",
     "tags": [
       "cliente"
@@ -598,94 +598,62 @@
     "updatedAt": "2025-07-12T14:25:15.404804"
   },
   {
-    "id": "ct36",
+    "id": 36,
     "name": "Elisa Polesel-Tamburello",
     "email": "ottonebellini@treccani-farina.com",
     "phone": "+39 899 62979397",
-    "companyId": "c12",
+    "companyId": 12,
     "notes": "Doloribus temporibus sapiente.",
     "tags": [
       "lead"
     ],
     "status": "scaduto",
     "contracts": [
-      "cn5"
+      5
     ],
     "createdAt": "2025-07-06T14:25:15.405265",
     "updatedAt": "2025-07-12T14:25:15.405274"
   },
   {
-    "id": "ct37",
-    "name": "Zaira Ferretti",
-    "email": "blasidonato@ruberto.com",
-    "phone": "+39 8645 73258576",
-    "companyId": "c14",
-    "notes": "Voluptatibus et voluptatibus architecto dolor beatae.",
-    "tags": [
-      "potenziale",
-      "cliente"
-    ],
-    "status": "cliente_attivo",
-    "contracts": [
-      "cn22",
-      "cn28"
-    ],
-    "createdAt": "2025-07-18T14:25:15.405452",
-    "updatedAt": "2025-07-07T14:25:15.405458"
-  },
-  {
-    "id": "ct38",
-    "name": "Panfilo Scarlatti",
-    "email": "irma00@fogazzaro-brugnaro.it",
-    "phone": "+39 683 02874688",
-    "companyId": "c20",
-    "notes": "Aspernatur voluptas laudantium accusamus.",
-    "tags": [
-      "lead"
-    ],
-    "status": "cliente_attivo",
-    "contracts": [
-      "cn24",
-      "cn29"
-    ],
-    "createdAt": "2025-07-14T14:25:15.405629",
-    "updatedAt": "2025-06-28T14:25:15.405636"
-  },
-  {
-    "id": "ct39",
+    "id": 39,
     "name": "Rosaria Omma",
     "email": "ariassomarisa@tiscali.it",
     "phone": "+39 098 52741974",
-    "companyId": "c11",
+    "companyId": 11,
     "notes": "Fugit quia unde dolorem nihil.",
     "tags": [
       "cliente"
     ],
     "status": "cliente_attivo",
     "contracts": [
-      "cn26",
-      "cn5"
+      26,
+      5
     ],
     "createdAt": "2025-06-28T14:25:15.405775",
     "updatedAt": "2025-07-12T14:25:15.405781"
   },
   {
-    "id": "ct40",
-    "name": "Antonello Costanzi",
-    "email": "hbocca@live.com",
-    "phone": "+39 560 1692201",
-    "companyId": "c19",
-    "notes": "Dolorum occaecati eaque blanditiis eos nulla.",
-    "tags": [
-      "partner",
-      "lead"
-    ],
-    "status": "potenziale",
-    "contracts": [
-      "cn28",
-      "cn30"
-    ],
-    "createdAt": "2025-07-23T14:25:15.405921",
-    "updatedAt": "2025-07-22T14:25:15.405929"
+    "id": 0,
+    "name": "Mario Rossi",
+    "email": "mario.rossi@example.com",
+    "phone": "333-4567890",
+    "companyId": 1,
+    "status": "potenziale"
+  },
+  {
+    "id": 0,
+    "name": "Mario Rossi",
+    "email": "mario.rossi@example.com",
+    "phone": "333-4567890",
+    "companyId": 1,
+    "status": "potenziale"
+  },
+  {
+    "id": 0,
+    "name": "Mario Rossi",
+    "email": "mario.rossi@example.com",
+    "phone": "333-4567890",
+    "companyId": 1,
+    "status": "potenziale"
   }
 ]
